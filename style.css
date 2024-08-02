@@ -1,0 +1,31 @@
+
+#result{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    width: 400px; /* 設定寬度 */
+    padding: 20px; /* 設定內邊距 */
+    background-color: #ffffff; /* 設定背景顏色 */
+    border: 1px solid #ddd; /* 設定邊框顏色 */
+    border-radius: 8px; /* 設定圓角 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 設定陰影效果 */
+    font-family: 'Arial', sans-serif; /* 設定字體 */
+    font-size: 17px; /* 設定字體大小 */
+    color: #333; /* 設定文字顏色 */
+    line-height: 1.5; /* 設定行高 */
+    transition: all 0.3s ease; /* 設定過渡效果 */
+}
+
+#foot {
+    position: absolute;
+    width: 20%; /* 設定寬度 */
+    padding: 20px; /* 設定內邊距 */
+    background-color: #ffffff; /* 設定背景顏色 */
+    border: 1px solid #ddd; /* 設定邊框顏色 */
+    border-radius: 8px; /* 設定圓角 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 設定陰影效果 */
+    font-family: 'Arial', sans-serif; /* 設定字體 */
+    font-size: 17px; /* 設定字體大小 */
+    color: #333; /* 設定文字顏色 */
+    line-height: 1.5; /* 設定行高 */
+} 
